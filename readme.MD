@@ -3,7 +3,7 @@
 An end-to-end Machine Learning application designed to predict residential property prices. This project transitions from raw data exploration to a production-ready web interface.
 
 ## 🚀 Live Demo
-**[Insert your Streamlit Cloud URL here once deployed]**
+**https://house-price-predictor-1.streamlit.app/**
 
 ## 🏗️ Project Architecture
 The project is organized into a modular structure to ensure maintainability and scalability:
