@@ -20,7 +20,3 @@ The project is organized into a modular structure to ensure maintainability and 
 4. **Hyperparameter Tuning:** Optimized model performance using **GridSearchCV**.
 5. **Deployment:** Integrated with GitHub Actions for seamless deployment on **Streamlit Cloud**.
 
-## 💻 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/house-price-predictor-project.git](https://github.com/YOUR_USERNAME/house-price-predictor-project.git)
